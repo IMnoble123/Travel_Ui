@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF7D18</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTextFormField">#F9F9F9</color>
+    <color name="colorTextFormFieldText">#979797</color>
+    <color name="colorLoginButton">#6C68F0</color>
+</resources>
